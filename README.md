@@ -1,4 +1,3 @@
-# PHOTON
 # PHOTON - AI/ML Pipeline for Image Categorization
 
 Welcome to **PHOTON**
